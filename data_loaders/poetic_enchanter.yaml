@@ -1,0 +1,6 @@
+config:
+  path_to_credentials_json_file: path_to_credentials_json_file
+  property_id: null
+  start_date: null
+  end_date: today
+source: google_analytics
